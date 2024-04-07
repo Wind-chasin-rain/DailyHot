@@ -1,9 +1,8 @@
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
 <h2>今日热榜</h2>
-<p>汇聚全网热点，热门尽览无余</p>
+<p>聚焦万象璀璨，热点交织诗篇</p>
 <br />
-<img src="./screenshots/main.jpg" style="border-radius: 16px" />
 </div>
 
 
@@ -11,7 +10,7 @@
 
 > 这里是示例站点
 
-- [今日热榜 - https://hot.imsyy.top/](https://hot.imsyy.top/)
+- [今日热榜 - https://hot.mzlmh.top/](https://hot.mzlmh.top/)
 
 
 ## 部署
