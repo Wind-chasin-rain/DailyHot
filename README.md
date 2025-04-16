@@ -10,7 +10,7 @@
 
 > 这里是示例站点
 
-- [今日热榜 - https://hot.mzlmh.top/](https://hot.mzlmh.top/)
+- [今日热榜 - https://hot.lovemzl.eu.org](https://hot.lovemzl.eu.org)
 
 
 ## 部署
